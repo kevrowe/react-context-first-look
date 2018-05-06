@@ -5,4 +5,4 @@
 
 ## TODO
 
-[] Add async todo addition
+* Add async todo addition
